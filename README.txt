@@ -1,2 +1,2 @@
-# sammlung.de
+# sammlung
 Scriptsammlung
